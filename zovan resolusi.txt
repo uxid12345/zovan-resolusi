@@ -1,0 +1,8 @@
+RESOLUSI
+- Angular 8
+- JWT Angular
+- Laravel 6 
+- Vue Cli 3
+- Node JS
+- JWT Node JS
+- React
