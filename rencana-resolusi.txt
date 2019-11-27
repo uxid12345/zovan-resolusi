@@ -1,0 +1,7 @@
+Rencana Resolusi
+
+- Angular primeng
+- Angular Animations
+- Basic .NetCore
+- Javascript
+  * ES6
