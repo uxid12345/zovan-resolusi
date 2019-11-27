@@ -3,6 +3,7 @@ RESOLUSI
 - JWT Angular
 - Laravel 6 
 - Vue Cli 3
+- Vue Laravel
 - Node JS
 - JWT Node JS
 - React
