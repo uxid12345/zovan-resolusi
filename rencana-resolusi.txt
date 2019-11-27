@@ -1,0 +1,5 @@
+Rencana Resolusi
+
+- Angular primeng
+- Angular Animations
+- Basic .NetCore
