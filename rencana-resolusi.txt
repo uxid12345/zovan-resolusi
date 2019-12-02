@@ -3,9 +3,11 @@ Rencana Resolusi
 - Angular primeng
 - Angular Animations
 - Basic .NetCore
-- Javascript
-  * ES6
-  * Angular JS
-  * React
 - PHP Frameworks
   * Laravel
+- Javascript
+  * ES6
+  * Vue
+  * React
+- Struktur Data Dasar
+- Phyton
