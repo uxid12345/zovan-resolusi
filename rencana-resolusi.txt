@@ -8,5 +8,6 @@ Rencana Resolusi
 - Javascript
   * ES6
   * Vue
+  * React
 - Struktur Data Dasar
 - Phyton
