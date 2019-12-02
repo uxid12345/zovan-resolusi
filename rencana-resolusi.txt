@@ -5,4 +5,7 @@ Rencana Resolusi
 - Basic .NetCore
 - Javascript
   * ES6
-- Struktur Data Dasar
+  * Angular JS
+  * React
+- PHP Frameworks
+  * Laravel
